@@ -1,28 +1,28 @@
 
   [
     {
-    "id": "1",
+    "id": 1,
     "name": "Maxtanie",
-    "age": "23"
+    "age": 23
   },
   {
-    "id": "2",
+    "id": 2,
     "name": "Sophie",
-    "age": "24"
+    "age": 24
   },
   {
-    "id": "3",
+    "id": 3,
     "name": "Emilie",
-    "age": "25"
+    "age": 25
   },
   {
-    "id": "4",
+    "id": 4,
     "name": "Lucie",
-    "age": "26"
+    "age": 26
   },
   {
-    "id": "5",
+    "id": 5,
     "name": "Paul",
-    "age": "27"
+    "age": 27
   }
 ]
