@@ -6,4 +6,10 @@
      "urlMovies": "https://devsnipps-test.herokuapp.com/tueras.mp4",
     "age": 23
   }
+      {
+    "id": 1,
+    "name": "Maxtanie",
+     "urlMovies": "https://devsnipps-test.herokuapp.com/tueras.mp4",
+    "age": 23
+  }
 ]
