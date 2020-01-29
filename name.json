@@ -3,26 +3,31 @@
     {
     "id": 1,
     "name": "Maxtanie",
+     "urlMovies": "https://devsnipps-test.herokuapp.com/tueras.mp4",
     "age": 23
   },
   {
     "id": 2,
     "name": "Sophie",
+    "urlMovies": "https://devsnipps-test.herokuapp.com/tueras.mp4",
     "age": 24
   },
   {
     "id": 3,
     "name": "Emilie",
+    "urlMovies": "https://devsnipps-test.herokuapp.com/tueras.mp4",
     "age": 25
   },
   {
     "id": 4,
     "name": "Lucie",
+    "urlMovies": "https://devsnipps-test.herokuapp.com/tueras.mp4",
     "age": 26
   },
   {
     "id": 5,
     "name": "Paul",
+    "urlMovies": "https://devsnipps-test.herokuapp.com/tueras.mp4",
     "age": 27
   }
 ]
